@@ -37,7 +37,7 @@ React • JavaScript • TypeScript • Node.js • APIs • PostgreSQL • Open
 
 Building production-ready AI applications and helping businesses integrate AI into real workflows.
 
-🌐 Portfolio: YOUR-WEBSITE
+🌐 Portfolio: https://3grandsmedia.com
 <!--
 **johnwebb-ai/johnwebb-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
